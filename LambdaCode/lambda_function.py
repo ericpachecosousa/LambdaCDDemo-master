@@ -1,6 +1,7 @@
 import boto
 import json
 ##teste
+##teste
 
 ec2 = boto.client('ec2')
 def lambda_handler(event, context):
